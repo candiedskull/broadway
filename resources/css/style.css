@@ -11,14 +11,26 @@ h1,h2,h3
 {
   font-weight: bold;
 }
+h2,h3,p{
+  color:black;
+}
+h2{
+  font-size: 32px;
+}
+h3{
+  font-size: 23px;
+}
+p{
+  font-size: 14px;
+}
 
 li {
-  font-size: 18px;
   list-style: none;
 }
 
 li a{
   color:inherit;
+  font-size:18px;
 }
 
 #header
