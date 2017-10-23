@@ -1,6 +1,5 @@
 body{
   font-family: Helvetica;
-  color: white;
   text-align: center;
 }
 
@@ -33,7 +32,8 @@ li a{
   font-size:18px;
 }
 
-#header
+.header
 {
   background-image: url("../images/the-flatiron-building.png");
+  color:white;
 }
